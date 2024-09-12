@@ -1,0 +1,31 @@
+.button{
+    margin-top: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    background: none;
+    border: 60;
+    color: #e22574;
+    background-color:#E0FFFF;
+    padding: 12px 24px;
+    margin-inline: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: -8px -8px 15px rgba(55, 12, 207, 0.1);
+    background: transparent;
+    border-color: blue;
+}
+
+}
+
+.Btn{
+    background-color: #261564;
+    border: 100;
+}
+
+}
+
+.btn{
+    color: #4816a7;
+}
